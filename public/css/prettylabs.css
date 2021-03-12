@@ -1,0 +1,50 @@
+br {
+  display: block;
+  height: 0px;
+  line-height: 0px;
+}
+
+h2 {
+  margin: 0 0;
+}
+
+.row {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.pushme {
+  margin-left: 350px;
+}
+
+#input {
+  margin: 0 0;
+  width: 500px;
+  height: 300px;
+  resize: none;
+  white-space: pre;
+  overflow-wrap: normal;
+  overflow: scroll; 
+  overflow-y: scroll; 
+  overflow-x: scroll; 
+}
+
+#output {
+  margin: 0 0;
+  font-size: x-small;
+  font-family: "Courier New", Courier, monospace;
+  width: 500px;
+  height: 300px;
+  resize: none;
+  white-space: pre;
+  overflow: scroll; 
+  overflow-y: scroll; 
+  overflow-x: scroll; 
+  /*overflow-wrap: normal;*/
+}
+
+/* 
+#paste-heading{
+    margin-bottom: 0px;
+}
+*/

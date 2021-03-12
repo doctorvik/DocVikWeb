@@ -1,0 +1,50 @@
+br {
+  display: block;
+  height: 0px;
+  line-height: 0px;
+}
+
+h2 {
+  margin: 0 0;
+}
+
+.row {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#div-button {
+  margin-right: 18%;
+}
+
+#input {
+  margin: 0 0;
+  width: 90%;
+  height: 300px;
+  resize: none;
+  white-space: pre;
+  overflow-wrap: normal;
+  overflow: scroll; 
+  overflow-y: scroll; 
+  overflow-x: scroll; 
+}
+
+#output {
+  margin: 0 0;
+  /*font-size: small;*/
+  font-family: 'Source Code Pro', monospace;
+  width: 90%;
+  height: 300px;
+  resize: none;
+  white-space: pre;
+  overflow: scroll; 
+  overflow-y: scroll; 
+  overflow-x: scroll; 
+  /*overflow-wrap: normal;*/
+}
+
+/* 
+#paste-heading{
+    margin-bottom: 0px;
+}
+*/

@@ -1,0 +1,17 @@
+.index-head {
+  padding: 5px 5px;
+}
+.container-head {
+  margin: 0 0;
+}
+
+.fa {
+    margin-right: 10px;
+}
+[data-toggle="collapse"] .fa::before{
+  content: "\f077";
+}
+
+[data-toggle="collapse"].collapsed .fa::before{
+  content: "\f078";
+}
